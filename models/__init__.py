@@ -1,0 +1,1 @@
+"""Model components for the MNIST-to-SVHN domain transfer example."""
